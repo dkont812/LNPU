@@ -1,6 +1,6 @@
 # Step 10
 
-
+(picture.png)
 
 # Step 1
 

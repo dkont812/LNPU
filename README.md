@@ -2,4 +2,4 @@
 Labs for 2semestr of LNPU
 
 
-![Logo!](picture.png)
+![Logo!](Lab2_1/picture.png)

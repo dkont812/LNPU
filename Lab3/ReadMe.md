@@ -4,4 +4,4 @@
 
 
 # Test
-![Logo!](Pictures/Lab3_test.png)
+![Logo!](![Lab3_test.png](../Pictures/Lab3_test.png))

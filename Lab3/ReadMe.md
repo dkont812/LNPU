@@ -4,4 +4,4 @@
 
 
 # Test
-![Logo!](![Lab3_test.png](../Pictures/Lab3_test.png))
+![Logo!](https://github.com/dkont812/LNPU/blob/main/Pictures/Lab3_test.png)

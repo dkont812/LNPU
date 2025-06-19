@@ -5,7 +5,7 @@ def welcome():
 
 def num_2_words():
     num = int(input("Вітаю, введіть число для перетвореня в письмову форму: "))
-    return convertor(num)
+    print(f"Ваше число в текстовому форматі: {convertor(num)}")
 
 
 def main():
